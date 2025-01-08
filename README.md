@@ -18,3 +18,9 @@ This repository contains a Python script to analyze exoplanet data from NASA arc
    ```sh
    git clone https://github.com/aristocles24/Universe.git
    cd Universe
+
+2. Install pips.
+   pip install pandas scikit-learn requests joblib
+
+3. Run the script.
+   python exoplanet_analysis.py
